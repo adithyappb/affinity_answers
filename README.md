@@ -4,7 +4,6 @@
 
 - Python 3.9+
 - Bash with `curl` (or `wget`), `awk`, `sort`, `cut` — Linux, macOS, WSL or Git Bash on Windows
-- Outbound HTTPS (Q1, Q3) and outbound TCP port **4497** (Q2, Rfam MySQL)
 
 ```bash
 python -m venv .venv
