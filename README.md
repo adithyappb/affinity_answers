@@ -1,4 +1,4 @@
-### Affinity Answers — Data Engineer (Intern) Take-Home
+### Affinity Answers Take-Home Assignment
 
 ## Requirements
 
