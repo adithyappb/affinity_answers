@@ -1,0 +1,376 @@
+{
+  "query": "external harddrive",
+  "source": "https://mdcomputers.in",
+  "scraped_at": "2026-10-29T17:21:04+00:00",
+  "count": 46,
+  "products": [
+    {
+      "product_id": "15127",
+      "name": "EK-Loop Connect - External USB Cable (1M)",
+      "url": "https://mdcomputers.in/product/ek-loop-connect-external-usb-cable",
+      "price": 550,
+      "mrp": 1299,
+      "discount_percent": 58
+    },
+    {
+      "product_id": "16447",
+      "name": "Seagate Expansion 1TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-expansion-1tb-external-hard-drive-stkm1000400",
+      "price": 9160,
+      "mrp": 10000,
+      "discount_percent": 8
+    },
+    {
+      "product_id": "11910",
+      "name": "WD Elements 1TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-elements-1tb-external-hard-drive-wdbhhg0010bbk-eesn",
+      "price": 9280,
+      "mrp": 14000,
+      "discount_percent": 34
+    },
+    {
+      "product_id": "6102",
+      "name": "WD My Passport 1TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-my-passport-1tb-external-hard-drive-wdbyvg0010bbk-wesn",
+      "price": 9550,
+      "mrp": 12000,
+      "discount_percent": 20
+    },
+    {
+      "product_id": "15962",
+      "name": "Seagate One Touch 1TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-one-touch-1tb-external-hard-drive-stky1000400",
+      "price": 9900,
+      "mrp": 10000,
+      "discount_percent": 1
+    },
+    {
+      "product_id": "25720",
+      "name": "Kingston Dual Portable USB Type A and Type C 512GB SSD",
+      "url": "https://mdcomputers.in/product/kingston-spsd-512gb-dual-portable-ssd",
+      "price": 10580,
+      "mrp": 22000,
+      "discount_percent": 52
+    },
+    {
+      "product_id": "9509",
+      "name": "WD Elements 2TB Portable Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-elements-2tb-external-hard-drive-wdbhdw0020bbk-eesn",
+      "price": 11000,
+      "mrp": 13000,
+      "discount_percent": 15
+    },
+    {
+      "product_id": "11186",
+      "name": "WD My Passport 2TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-my-passport-2tb-external-hard-drive-wdbyvg0020bbk-wesn",
+      "price": 11440,
+      "mrp": 15000,
+      "discount_percent": 24
+    },
+    {
+      "product_id": "16495",
+      "name": "Seagate Expansion 2TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-expansion-2tb-external-hard-drive-stkm2000400",
+      "price": 11650,
+      "mrp": 13000,
+      "discount_percent": 10
+    },
+    {
+      "product_id": "15946",
+      "name": "Seagate One Touch 2TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-one-touch-2tb-external-hard-drive-stky2000400",
+      "price": 11980,
+      "mrp": 12999,
+      "discount_percent": 8
+    },
+    {
+      "product_id": "26745",
+      "name": "SanDisk E10 1TB Portable SSD",
+      "url": "https://mdcomputers.in/product/sandisk-e10-1tb-portable-ssd-sdssde10-1t00-in25",
+      "price": 13750,
+      "mrp": 29990,
+      "discount_percent": 54
+    },
+    {
+      "product_id": "24635",
+      "name": "Kingston XS1000 Built on Commitment 1TB External SSD",
+      "url": "https://mdcomputers.in/product/kingston-xs1000-1tb-external-ssd-sxs1000-1000ga",
+      "price": 14180,
+      "mrp": 20000,
+      "discount_percent": 29
+    },
+    {
+      "product_id": "24273",
+      "name": "Crucial X9 1TB Gen2 External SSD",
+      "url": "https://mdcomputers.in/product/crucial-x9-1tb-ssd-ct1000x9ssd9",
+      "price": 14530,
+      "mrp": 16900,
+      "discount_percent": 14
+    },
+    {
+      "product_id": "25721",
+      "name": "Kingston Dual USB Type A and Type C 1TB Portable SSD",
+      "url": "https://mdcomputers.in/product/kingston-spsd-1tb-dual-portable-ssd",
+      "price": 15560,
+      "mrp": 32000,
+      "discount_percent": 51
+    },
+    {
+      "product_id": "24861",
+      "name": "Kingston XS2000 Built on Commitment 1TB External SSD",
+      "url": "https://mdcomputers.in/product/kingston-xs2000-1tb-external-ssd-sxs2000-1000ga",
+      "price": 15799,
+      "mrp": 62500,
+      "discount_percent": 75
+    },
+    {
+      "product_id": "16590",
+      "name": "SanDisk E30 1TB Portable SSD",
+      "url": "https://mdcomputers.in/product/sandisk-1tb-external-ssd-sdssde30-1t00-g26",
+      "price": 15999,
+      "mrp": 20800,
+      "discount_percent": 23
+    },
+    {
+      "product_id": "15829",
+      "name": "Kingston XS2000 USB 3.2 Gen 2 1TB External SSD",
+      "url": "https://mdcomputers.in/product/kingston-xs2000-1tb-ssd-sxs2000-1000g",
+      "price": 16160,
+      "mrp": 24000,
+      "discount_percent": 33
+    },
+    {
+      "product_id": "26639",
+      "name": "Seagate Expansion 4TB Desktop External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-expansion-4tb-external-hard-drive-stkp4000400",
+      "price": 16470,
+      "mrp": 21999,
+      "discount_percent": 25
+    },
+    {
+      "product_id": "11192",
+      "name": "WD My Book 4TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-my-book-4tb-external-hard-drive-wdbbgb0040hbk-nesn",
+      "price": 16660,
+      "mrp": 20000,
+      "discount_percent": 17
+    },
+    {
+      "product_id": "25344",
+      "name": "Seagate Expansion 4TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-expansion-4tb-external-hard-drive-stkm4000400",
+      "price": 16899,
+      "mrp": 18000,
+      "discount_percent": 6
+    },
+    {
+      "product_id": "11273",
+      "name": "WD My Passport 4TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-my-passport-4tb-external-hard-drive-wdbpkj0040bbk-wesn",
+      "price": 17260,
+      "mrp": 19000,
+      "discount_percent": 9
+    },
+    {
+      "product_id": "15833",
+      "name": "Seagate One Touch 4TB Silver External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-one-touch-4tb-external-hard-drive-stkz4000401",
+      "price": 17290,
+      "mrp": 19000,
+      "discount_percent": 9
+    },
+    {
+      "product_id": "16930",
+      "name": "Seagate One Touch 4TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-one-touch-4tb-external-hard-drive-stkz4000400",
+      "price": 17650,
+      "mrp": 20000,
+      "discount_percent": 12
+    },
+    {
+      "product_id": "24691",
+      "name": "SanDisk E61 Extreme 1TB Portable SSD",
+      "url": "https://mdcomputers.in/product/sandisk-1tb-external-ssd-sdssde61-1t00-in25",
+      "price": 17960,
+      "mrp": 21700,
+      "discount_percent": 17
+    },
+    {
+      "product_id": "23391",
+      "name": "WD Elements 4TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-elements-4tb-external-hard-drive-wdbhdw0040bbk-eesn",
+      "price": 17980,
+      "mrp": 19000,
+      "discount_percent": 5
+    },
+    {
+      "product_id": "25345",
+      "name": "Seagate Expansion 5TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-expansion-5tb-external-hard-drive-stkm5000400",
+      "price": 18580,
+      "mrp": 21000,
+      "discount_percent": 12
+    },
+    {
+      "product_id": "26300",
+      "name": "SanDisk E61 Extreme Monterey 1TB Portable SSD",
+      "url": "https://mdcomputers.in/product/sandisk-extreme-1tb-portable-ssd-sdssde61-1t00-i25m",
+      "price": 19060,
+      "mrp": 21700,
+      "discount_percent": 12
+    },
+    {
+      "product_id": "19081",
+      "name": "WD Elements 5TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-elements-5tb-external-hard-drivewdbhdw0050bbk-eesn",
+      "price": 19180,
+      "mrp": 28000,
+      "discount_percent": 32
+    },
+    {
+      "product_id": "24318",
+      "name": "WD My Passport 5TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-my-passport-5tb-external-hard-drive-wdbpkj0050bbk",
+      "price": 19399,
+      "mrp": 21000,
+      "discount_percent": 8
+    },
+    {
+      "product_id": "27168",
+      "name": "Sandisk E81 Extreme Pro Royal Blue 1TB Portable SSD",
+      "url": "https://mdcomputers.in/product/sandisk-extreme-pro-1tb-portable-ssd-sdssde81-1t00-rr25",
+      "price": 20310,
+      "mrp": 35400,
+      "discount_percent": 43
+    },
+    {
+      "product_id": "19476",
+      "name": "Seagate One Touch 5TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/seagate-one-touch-5tb-external-hard-drive-stkz5000400",
+      "price": 20600,
+      "mrp": 25000,
+      "discount_percent": 18
+    },
+    {
+      "product_id": "19448",
+      "name": "WD My Book 6TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-my-book-6tb-external-hard-drive-wdbbgb0060hbk",
+      "price": 22176,
+      "mrp": 25000,
+      "discount_percent": 11
+    },
+    {
+      "product_id": "24319",
+      "name": "WD Elements 6TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-elements-6tb-external-hard-drive-wdbnef0060bbk-eesn",
+      "price": 23199,
+      "mrp": 26400,
+      "discount_percent": 12
+    },
+    {
+      "product_id": "22755",
+      "name": "Samsung T9 USB 3.2 1TB External SSD",
+      "url": "https://mdcomputers.in/product/samsung-t9-1tb-external-ssd-mu-pg1t0b-ww",
+      "price": 26480,
+      "mrp": 40899,
+      "discount_percent": 35
+    },
+    {
+      "product_id": "18669",
+      "name": "WD My Book 8TB External Hard Drive",
+      "url": "https://mdcomputers.in/product/wd-my-book-8tb-external-hard-drive-wdbbgb0080hbk",
+      "price": 27800,
+      "mrp": 30000,
+      "discount_percent": 7
+    },
+    {
+      "product_id": "24636",
+      "name": "Kingston XS1000 Built on Commitment 2TB External SSD",
+      "url": "https://mdcomputers.in/product/kingston-xs1000-2tb-external-ssd-sxs1000-2000ga",
+      "price": 28180,
+      "mrp": 49000,
+      "discount_percent": 42
+    },
+    {
+      "product_id": "26358",
+      "name": "SanDisk E61 Extreme Monterey 2TB Portable SSD",
+      "url": "https://mdcomputers.in/product/sandisk-e61-extreme-2tb-portable-ssd-sdssde61-2t00-i25m",
+      "price": 29680,
+      "mrp": 32999,
+      "discount_percent": 10
+    },
+    {
+      "product_id": "25722",
+      "name": "Kingston Dual Portable USB Type A and Type C 2TB SSD",
+      "url": "https://mdcomputers.in/product/kingston-spsd-2tb-dual-portable-ssd",
+      "price": 29850,
+      "mrp": 54000,
+      "discount_percent": 45
+    },
+    {
+      "product_id": "19201",
+      "name": "SanDisk E61 2TB Portable SSD",
+      "url": "https://mdcomputers.in/product/sandisk-extreme-2tb-external-ssd-sdssde61-2t00-g25",
+      "price": 29860,
+      "mrp": 32999,
+      "discount_percent": 10
+    },
+    {
+      "product_id": "19210",
+      "name": "Sandisk E81 Extreme Pro 2TB Portable SSD",
+      "url": "https://mdcomputers.in/product/sandisk-extreme-pro-2tb-external-ssd-sdssde81-2t00-g25",
+      "price": 33160,
+      "mrp": 44000,
+      "discount_percent": 25
+    },
+    {
+      "product_id": "12733",
+      "name": "Samsung T7 Blue 2TB External SSD",
+      "url": "https://mdcomputers.in/product/samsung-t7-2tb-blue-external-ssd-mu-pc2t0h-ww",
+      "price": 43040,
+      "mrp": 78299,
+      "discount_percent": 45
+    },
+    {
+      "product_id": "21871",
+      "name": "Samsung T7 Shield 2TB External SSD",
+      "url": "https://mdcomputers.in/product/samsung-t7-shield-2tb-external-ssd-mu-pe2t0s-ww",
+      "price": 44000,
+      "mrp": 81699,
+      "discount_percent": 46
+    },
+    {
+      "product_id": "27035",
+      "name": "SanDisk E61 Extreme Sky Blue 4TB Portable SSD",
+      "url": "https://mdcomputers.in/product/sandisk-extreme-4tb-portable-ssd-sdssde61-4t00-i25b",
+      "price": 61530,
+      "mrp": 88900,
+      "discount_percent": 31
+    },
+    {
+      "product_id": "24264",
+      "name": "SAMSUNG T7 Gray 4TB Gen 2 External SSD",
+      "url": "https://mdcomputers.in/product/samsung-t7-gray-4tb-external-ssd-mu-pc4t0t-ww",
+      "price": 71840,
+      "mrp": 156499,
+      "discount_percent": 54
+    },
+    {
+      "product_id": "24266",
+      "name": "Samsung T7 Shield Black 4TB Portable External SSD",
+      "url": "https://mdcomputers.in/product/samsung-t7-shield-4tb-external-ssd-mu-pe4t0s-ww",
+      "price": 75899,
+      "mrp": 163499,
+      "discount_percent": 54
+    },
+    {
+      "product_id": "24265",
+      "name": "SAMSUNG T9 NVMe 4TB Gen 2 External SSD",
+      "url": "https://mdcomputers.in/product/samsung-t9-4tb-external-ssd-mu-pg4t0b-ww",
+      "price": 111450,
+      "mrp": 163499,
+      "discount_percent": 32
+    }
+  ]
+}
